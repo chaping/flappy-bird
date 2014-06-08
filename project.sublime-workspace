@@ -1,0 +1,458 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"addO",
+				"addOnce(a, b, c)"
+			],
+			[
+				"add",
+				"add(a, b, c)"
+			],
+			[
+				"ga",
+				"gameIsOver"
+			],
+			[
+				"sou",
+				"soundHitGround"
+			],
+			[
+				"hi",
+				"hitGround"
+			],
+			[
+				"for",
+				"forEachExists"
+			],
+			[
+				"pip",
+				"pipeGroup"
+			],
+			[
+				"set",
+				"setTo(x, y)"
+			],
+			[
+				"an",
+				"anchor"
+			],
+			[
+				"fl",
+				"flappy_font"
+			],
+			[
+				"center",
+				"centerY	(num)"
+			],
+			[
+				"bi",
+				"bitmapText(x, y, font, text, size, group)"
+			],
+			[
+				"b",
+				"bitmapFont(key, textureURL, xmlURL, xmlData, xSpacing, ySpacing)"
+			],
+			[
+				"s",
+				"stop(name, resetFrame)"
+			],
+			[
+				"ov",
+				"overlapCallback	(?)"
+			],
+			[
+				"stop",
+				"stopGame"
+			],
+			[
+				"o",
+				"overlapCallback"
+			],
+			[
+				"pi",
+				"pipeGroup"
+			],
+			[
+				"start",
+				"statrGame"
+			],
+			[
+				"p",
+				"pointer	{}"
+			],
+			[
+				"mou",
+				"mousePointer	{}"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"bo",
+				"bottomPipe	{}"
+			],
+			[
+				"to",
+				"topPipeY	(num)"
+			],
+			[
+				"top",
+				"topPipeY"
+			],
+			[
+				"forE",
+				"forEachDead(callback, callbackContext)"
+			],
+			[
+				"pipe",
+				"pipeGroup	(?)"
+			],
+			[
+				"ch",
+				"checkWorldBounds	(bool)"
+			],
+			[
+				"enable",
+				"enableBody	(bool)"
+			],
+			[
+				"ge",
+				"generatePipes	(?)"
+			],
+			[
+				"gr",
+				"group(parent, name, addToStage, enableBody, physicsBodyType)"
+			],
+			[
+				"g",
+				"ground	(?)"
+			],
+			[
+				"tit",
+				"titleGroup	{}"
+			],
+			[
+				"ph",
+				"physics"
+			],
+			[
+				"S",
+				"Sprites	(?)"
+			],
+			[
+				"P",
+				"Physics(game, config)"
+			],
+			[
+				"Re",
+				"RegExp (fn)"
+			],
+			[
+				"c",
+				"createCursorKeys"
+			],
+			[
+				"con",
+				"condition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/game.js",
+			"settings":
+			{
+				"buffer_size": 7839,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/code.js",
+			"settings":
+			{
+				"buffer_size": 9328,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"tern",
+				"TernJS: Reload"
+			],
+			[
+				"ter",
+				"TernJS: Jump to definition"
+			],
+			[
+				"te",
+				"TernJS: Jump to definition"
+			],
+			[
+				"t",
+				"TernJS: Reload"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/AppData/Roaming/Titanium/mobilesdk/win32/3.2.1.GA/android/android.py",
+		"/C/Users/Administrator/AppData/Roaming/Titanium/mobilesdk/win32/3.2.1.GA/module/android/build.xml",
+		"/E/wamp/www/GAME/demo/flappy-bird/js/game.js",
+		"/E/wamp/www/GAME/demo/flappy-bird/js/game2.js",
+		"/E/wamp/www/GAME/demo/flappy-bird/project.sublime-project",
+		"/C/Users/Administrator/Desktop/111.sublime-project",
+		"/D/Program Files/Sublime Text3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Program Files/Sublime Text3/Data/Packages/Default/Preferences.sublime-settings",
+		"/E/wamp/www/GAME/demo/flappy-bird/js/sea.js",
+		"/D/Program Files/Sublime Text3/Data/Packages/tern_for_sublime/JavaScript.sublime-settings",
+		"/D/Program Files/Sublime Text3/Data/Packages/TernJS/TernJS.sublime-settings",
+		"/E/wamp/www/GAME/demo/flappy-bird/js/phaser.js",
+		"/E/wamp/www/GAME/demo/flappy-bird/index.html",
+		"/D/Program Files/Sublime Text3/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Administrator/.codeintel/config",
+		"/C/Users/Administrator/Desktop/phaser.js",
+		"/D/Program Files/Sublime Text3/Data/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/E/wamp/www/GAME/demo/flappy-bird/.codeintel/config",
+		"/C/Users/Administrator/Desktop/a.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/game.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7556,
+								7579
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3680.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/code.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								865,
+								865
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
